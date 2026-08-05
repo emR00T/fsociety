@@ -102,7 +102,7 @@ cd fsociety/tools
 Run the application:
 
 ```bash
-python git_manager.py
+python gitgui.py
 ```
 
 ---
