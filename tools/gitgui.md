@@ -90,13 +90,13 @@ git-manager/
 Clone the repository:
 
 ```bash
-git clone https://github.com/USERNAME/fsociety.git
+git clone https://github.com/emR00T/fsociety.git
 ```
 
 Move into the project directory:
 
 ```bash
-cd fsociety
+cd fsociety/tools
 ```
 
 Run the application:
